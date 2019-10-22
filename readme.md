@@ -19,7 +19,7 @@ exports.handler = function(event,context){
     S3.getObject(s3GetParams , function(err ,data){
 
       var connection = mysql.createConnection({
-        host     : 'database-1.cnbbqbdlpq7t.ap-northeast-1.rds.amazonaws.com', //RDSのエンドポイント
+        host     : 'database-1.**************.ap-northeast-1.rds.amazonaws.com', //RDSのエンドポイント
         user     : 'admin', //MySQLのユーザ名
         password : '*******', //MySQLのパスワード
         database : 'testdb'
