@@ -1,0 +1,17 @@
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\S3FileUploader.exe.config
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\S3FileUploader.exe
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\S3FileUploader.pdb
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\AWSSDK.Core.dll
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\AWSSDK.S3.dll
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\AWSSDK.Core.pdb
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\AWSSDK.Core.xml
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\AWSSDK.S3.pdb
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\bin\Debug\AWSSDK.S3.xml
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.csprojAssemblyReference.cache
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.frmUploader.resources
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.Properties.Resources.resources
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.csproj.GenerateResource.cache
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.csproj.CoreCompileInputs.cache
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.csproj.CopyComplete
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.exe
+C:\WorkSpace\S3FileUploader\S3FileUploader\S3FileUploader\obj\Debug\S3FileUploader.pdb
